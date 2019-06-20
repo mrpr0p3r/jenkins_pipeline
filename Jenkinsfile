@@ -5,6 +5,7 @@ pipeline
     stage("test"){
       script{
         println("chiama bush")
+        println("sta chiuvennu!")
       }
     }
   }
