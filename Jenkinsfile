@@ -11,6 +11,11 @@ pipeline
 
 =======
         println("bo")
+<<<<<<< HEAD
+>>>>>>> svil
+=======
+        asdsiusdusdfiuasdoiuasdiouhasdoij
+        wazxdfgrchyujkopl
 >>>>>>> svil
       }
     }
