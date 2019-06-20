@@ -4,7 +4,7 @@ pipeline
   stages{
     stage("test"){
       script{
-        println("chiama bush")
+        println("chiama aoijdoaijsdoiajsd")
       }
     }
   }
