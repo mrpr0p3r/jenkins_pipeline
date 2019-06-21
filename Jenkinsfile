@@ -8,6 +8,7 @@ pipeline
         println("chiama bush")
         println("sta chiuvennu!")
         println("bo")
+        asdsiusdusdfiuasdoiuasdiouhasdoij
       }
     }
   }
