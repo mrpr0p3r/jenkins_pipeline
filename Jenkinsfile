@@ -9,6 +9,7 @@ pipeline
         println("sta chiuvennu!")
         println("bo")
         asdsiusdusdfiuasdoiuasdiouhasdoij
+        wazxdfgrchyujkopl
       }
     }
   }
